@@ -1,0 +1,6 @@
+{
+  "name": "자기소개 페이지",
+  "description": "모던하고 미니멀한 디자인의 대화형 개인 자기소개 및 포트폴리오 웹사이트입니다. 프로젝트, 보유 기술, 이력 타임라인 및 방명록 기능을 지원합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
